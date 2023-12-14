@@ -1,5 +1,6 @@
-![spring](https://github.com/frankcrafter/Nvim/assets/133362490/b238de04-896a-4aef-b152-a679f3ca5515)
 ![codeaction](https://github.com/frankcrafter/Nvim/assets/133362490/032920f6-da70-4868-9c26-21116a1f9cf3)
+![spring](https://github.com/frankcrafter/Nvim/assets/133362490/b238de04-896a-4aef-b152-a679f3ca5515)
+
 
 ## Setup
 + <code>sudo pacman -S jdk17-openjdk</code>
