@@ -16,7 +16,7 @@ local config = {
 		"java.base/java.lang=ALL-UNNAMED",
 
 		"-jar",
-		"/home/frank/.local/share/nvim/mason/packages/jdtls/plugins/org.eclipse.equinox.launcher_1.6.600.v20231012-1237.jar",
+		"/home/frank/.local/share/nvim/mason/packages/jdtls/plugins/org.eclipse.equinox.launcher_1.6.600.v20231106-1826.jar",
 
 		"-configuration",
 		"/home/frank/.local/share/nvim/mason/packages/jdtls/config_linux",
