@@ -3,7 +3,7 @@
 
 
 ## Setup
-<code><a href='https://www.youtube.com/watch?v=TND1wZtuz78'>Video Setup</a></code>
+<code><a href='https://youtu.be/WOQlEw7TvPA'>Video Setup</a></code>
 <br>
 + <code>sudo pacman -S jdk17-openjdk</code>
 + <a href='https://ohmyz.sh/'>Shell</a> - Zsh
