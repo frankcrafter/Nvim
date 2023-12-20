@@ -25,8 +25,3 @@ And you're done!
 Download or clone project, then cd to the project folder, and press
 + <code>F5 to compile</code>
 + <code>F10 to run project</code>
-
-#### Provided
-+ Getters and Setters
-+ Import Packaging
-+ Tabnine for code completions
