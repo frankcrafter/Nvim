@@ -67,7 +67,7 @@ cmp.setup({
 	window = {
 		completion = {
 			border = nil,
-			winhighlight = "CursorLine:lualine_b_visual,Search:IncSearch",
+			winhighlight = "CursorLine:lualine_a_visual,Search:IncSearch",
 		},
 		documentation = {
 			border = nil,
